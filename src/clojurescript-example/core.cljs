@@ -1,3 +1,3 @@
 (ns clojurescript-example.core)
 
-(println "Hello World!")
+(js/console "Fuck!")
